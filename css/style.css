@@ -154,7 +154,7 @@ body {
   }
   
   /* Education section */
-  
+
   .my-education-university {
     font-weight: bold;
     font-size: 16px;
@@ -162,6 +162,10 @@ body {
     color: #fb6d3a;
   
     margin-bottom: 11px;
+  }
+
+  .my-certificate-link {
+    color: #000;
   }
   
   .faculty-first {
