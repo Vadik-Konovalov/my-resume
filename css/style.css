@@ -182,7 +182,7 @@ body {
   .photo {
     /* width: 100%;
     border-radius: 180px; */
-    max-width: 300px;
+    width: 300px;
     display: flex;
     border-radius: 150px;
     margin: auto;
